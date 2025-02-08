@@ -2,7 +2,7 @@
 
 ## **🚀 Overview**
 
-Voxaura is an AI-powered voice-based chatbot built using Streamlit, SpeechRecognition, Google Text-to-Speech (gTTS), and Groq’s Mixtral AI. It allows users to talk naturally with an AI assistant, which responds in both text and audio.
+Welcome to **Voxaura**, a real-time v**oice-powered AI assistant** built with Streamlit, Speech Recognition and Groq. This chatbot allows users to **interact via speech input**, receive **text-based AI responses**, and even **listen to the bot's spoken reply!** 🎤🤖
 
 
 
@@ -71,3 +71,7 @@ We welcome contributions! Feel free to fork the repository, make changes, and su
 
 ## **📜 License**
 This project is licensed under the MIT License.
+
+
+
+**⭐ Star this repo if you like it! 🤩**
