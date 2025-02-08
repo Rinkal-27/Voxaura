@@ -1,5 +1,5 @@
-# **Voxaura – AI Voice Chatbot 🎙️🤖
-**
+# Voxaura – AI Voice Chatbot 🎙️🤖
+
 ## **🚀 Overview**
 
 Voxaura is an AI-powered voice-based chatbot built using Streamlit, SpeechRecognition, Google Text-to-Speech (gTTS), and Groq’s Mixtral AI. It allows users to talk naturally with an AI assistant, which responds in both text and audio.
@@ -14,16 +14,6 @@ Voxaura is an AI-powered voice-based chatbot built using Streamlit, SpeechRecogn
 ✅ **Optimized Performance** – Fast response times with efficient API calls.
 
 
-## **🛠️ Tech Stack**
-
-**Python** (Core logic)
-**Streamlit** (UI Framework)
-**SpeechRecognition** (Voice input processing)
-**Google TTS** (gTTS) (Text-to-speech conversion)
-**Groq API** (LLM-based responses)
-**NumPy & io** (Optimizations and audio handling)
-
-
 ## **🎤 How It Works**
 
 1. Click "🎤 Start Talking" to begin.
@@ -33,7 +23,7 @@ Voxaura is an AI-powered voice-based chatbot built using Streamlit, SpeechRecogn
 5. Previous conversations are stored in Chat History.
 
 
-##** 🔧 Installation & Setup**
+## **🔧 Installation & Setup**
 
 1️⃣ **Clone the Repository**
 
@@ -57,8 +47,11 @@ streamlit run app.py
 ## **💡 Future Enhancements**
 
 **🔥 Multi-Language Support** (Expand speech recognition and TTS to multiple languages.)
+
 **🧠 Memory & Context Awareness** (Allow chatbot to remember previous interactions.)
+
 **📡 Cloud Integration** (Store chat logs and user preferences in the cloud.)
+
 **🎭 Voice Customization** (Select different AI voices.)
 
 
