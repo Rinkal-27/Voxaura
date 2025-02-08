@@ -35,6 +35,7 @@ Welcome to **Voxaura**, a real-time v**oice-powered AI assistant** built with St
 1️⃣ **Clone the Repository**
 
 git clone https://github.com/Rinkal-27/Voxaura.git
+
 cd Voxaura
 
 2️⃣ **Install Dependencies**
@@ -44,6 +45,7 @@ pip install -r requirements.txt
 3️⃣ **Set Up API Keys**
 
 Create a .env file and add your Groq API Key:
+
 GROQ_API_KEY=your_api_key_here
 
 4️⃣ **Run the Chatbot**
